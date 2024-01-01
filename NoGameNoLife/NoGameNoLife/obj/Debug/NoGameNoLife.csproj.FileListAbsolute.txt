@@ -1,0 +1,10 @@
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\bin\Debug\NoGameNoLife.exe.config
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\bin\Debug\NoGameNoLife.exe
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\bin\Debug\NoGameNoLife.pdb
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.csproj.AssemblyReference.cache
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.Form1.resources
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.Properties.Resources.resources
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.csproj.GenerateResource.cache
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.csproj.CoreCompileInputs.cache
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.exe
+D:\Dev_projects\Csharp_IOT\demos\NoGameNoLife\NoGameNoLife\obj\Debug\NoGameNoLife.pdb
